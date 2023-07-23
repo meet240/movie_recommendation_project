@@ -1,5 +1,5 @@
 # movie_recommendation_project
-1. movie data rea
+1. movie data read
 2. user data read
 3. using knn algorithm
 4. standardlization
